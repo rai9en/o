@@ -13,7 +13,11 @@ namespace ConsoleApp10
         }
         public void BubbleSort(int[] arr)
         {
-
+            int n = arr.Length;
+            for (int i = 0; i < n - 1; i++)
+            {
+        
+            }
         }
     }
 }
