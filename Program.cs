@@ -11,6 +11,7 @@ namespace ConsoleApp10
         static void Main(string[] args)
         {
         }
+        //Алгоритм сортировки пузырьком
         public void BubbleSort(int[] arr)
         {
             int n = arr.Length;
